@@ -1,0 +1,5 @@
+/Users/EdaAslanoba/AndroidStudioProjects/FuelMeApp/app/build/intermediates/classes/debug
+/Users/EdaAslanoba/AndroidStudioProjects/FuelMeApp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b6b2f443db5415c0e636344154b33ee8059a5a15.jar
+/Users/EdaAslanoba/AndroidStudioProjects/FuelMeApp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f36b0d4a11b8c40c87babce979bc11e1fdc6fe1d.jar
+/Users/EdaAslanoba/AndroidStudioProjects/FuelMeApp/app/build/intermediates/pre-dexed/debug/classes-f4fceeab7a8425a127d90851ac671183a3be1a39.jar
+/Users/EdaAslanoba/AndroidStudioProjects/FuelMeApp/app/build/intermediates/pre-dexed/debug/classes-93d8fed22983db0f97c942046b01240d76ec2992.jar
